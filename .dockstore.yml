@@ -1,7 +1,7 @@
 version: 1.2
 workflows:
    - subclass: cwl
-     primaryDescriptorPath: "ansi \e[31m.cwl"
+     primaryDescriptorPath: "ansi [31m.cwl"
      publish: true
      testParameterFiles:
          - /Dockstore.json
