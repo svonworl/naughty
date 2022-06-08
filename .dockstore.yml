@@ -1,5 +1,5 @@
 version: 1.2
-tools:
+workflows:
    - subclass: cwl
      primaryDescriptorPath: /Dockstore.cwl
      publish: true
