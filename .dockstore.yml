@@ -1,7 +1,7 @@
 version: 1.2
 workflows:
    - subclass: cwl
-     primaryDescriptorPath: /Dockstore😂.cwl
+     primaryDescriptorPath: /Dockstoré.cwl
      publish: true
      testParameterFiles:
          - /Dockstore.json
